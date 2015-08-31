@@ -46,10 +46,12 @@ Nothing obscene, profane or offensive. Pull requests supported.
 
 **10-117**: Computer fire is spreading; attempting to push my latest work
 
-**10-118**: Project delayed due to [circling sharks](https://xkcd.com/349/) or sharknado.
+**10-118**: Project delayed due to [circling sharks](https://xkcd.com/349/) or sharknado
 
 **10-119**: Need to reboot; may not return online
 
 **10-120**: How about now?; Try it again
+
+**10-121**: Brain not working, please try again later
 
 
