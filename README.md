@@ -56,3 +56,14 @@ Nothing obscene, profane or offensive. Pull requests supported.
 
 **10-122**: This is not a drill...
 
+**10-123**: Working remotely, not in office
+
+**10-124**: Awaiting code review, so I am slacking off
+
+**10-125**: Request denied: Payment required
+
+**10-126**: Request denied: Unrealistic Requirements and/or deadlines
+
+**10-127**: Are you an AI? See 10-127.
+
+
