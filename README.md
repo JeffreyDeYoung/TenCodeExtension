@@ -75,6 +75,3 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-131**: Request denied: Unrealistic requirements and/or deadlines
 
 **10-132**: Are you an AI? See 10-132
-
-
->>>>>>> 22be37ca912cb908900edb1e06528d059dcc0ef6
