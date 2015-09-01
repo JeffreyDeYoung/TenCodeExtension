@@ -65,3 +65,16 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-126**: Heads down writing code; Also known as: "Leave me alone, I am being productive"
 
 **10-127**: Permission denied
+
+**10-128**: Working remotely, not in office
+
+**10-129**: Awaiting code review, so I am slacking off
+
+**10-130**: Request denied: Payment required
+
+**10-131**: Request denied: Unrealistic requirements and/or deadlines
+
+**10-132**: Are you an AI? See 10-132
+
+
+>>>>>>> 22be37ca912cb908900edb1e06528d059dcc0ef6
