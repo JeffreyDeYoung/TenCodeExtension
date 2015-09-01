@@ -62,4 +62,6 @@ Nothing obscene, profane or offensive. Pull requests supported.
 
 **10-125**: Employee accidentally fired due to paperwork error
 
-**10-126**: Heads down writing code. Also known as: "Leave me alone, I am being productive".
+**10-126**: Heads down writing code; Also known as: "Leave me alone, I am being productive"
+
+**10-127**: Permission denied
