@@ -89,3 +89,7 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-139**: System possessed (confirmed demonic)
 
 **10-140**: Problem exists between keyboard and chair
+
+**10-141**: Firewall is overzealous
+
+**10-142**: Security requirements make operational requirements irrelevant
