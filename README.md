@@ -87,3 +87,5 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-138**: System possessed (unconfirmed demonic)
 
 **10-139**: System possessed (confirmed demonic)
+
+**10-140**: Problem exists between keyboard and chair
