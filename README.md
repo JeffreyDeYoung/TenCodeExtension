@@ -3,7 +3,7 @@
 This document is intended to be a semi-sarcastic extension of CB ([civilian band](https://en.wikipedia.org/wiki/Citizens_band_radio)) [10-codes](http://www.truckroadservice.com/10_codes.html) for cut rate communications for software development teams. Some inspiration was also received from [here](https://github.com/joho/7XX-rfc]) (Warning: Language on the linked document).
 
 ###Status
-This document is a work in progress.
+This document is a work in progress; codes may change without notice until finalized.
 
 ###Editing rules
 Nothing obscene, profane or offensive. Pull requests supported.
