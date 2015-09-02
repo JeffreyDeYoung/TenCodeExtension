@@ -77,3 +77,13 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-133**: Developer is over-caffeinated
 
 **10-134**: Developer is under-caffeinated
+
+**10-135**: Cosmic ray flipped bit in RAM or hard drive (actual/confirmed)
+
+**10-136**: Cosmic ray flipped bit in RAM or hard drive (we have no idea what happened, so we are blaming it on cosmic rays)
+
+**10-137**: System possessed (electrical)
+
+**10-138**: System possessed (unconfirmed demonic)
+
+**10-139**: System possessed (confirmed demonic)
