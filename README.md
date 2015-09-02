@@ -30,9 +30,7 @@ Nothing obscene, profane or offensive. Pull requests supported.
 
 **10-110**: Race condition
 
-**10-111**: Developer is over-caffeinated
-
-**10-111**: Developer is under-caffeinated
+**10-111**: Data corruption
 
 **10-112**: Developer is sleep deprived
 
@@ -75,3 +73,7 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-131**: Request denied: Unrealistic requirements and/or deadlines
 
 **10-132**: Are you an AI? See 10-132
+
+**10-133**: Developer is over-caffeinated
+
+**10-134**: Developer is under-caffeinated
