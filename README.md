@@ -93,3 +93,5 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-141**: Firewall is overzealous
 
 **10-142**: Security requirements make operational requirements irrelevant
+
+**10-143**: Out of coffee
