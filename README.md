@@ -111,3 +111,5 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-150**: Progress is like attempting to hit an Olympic Gymnast with a Wal-Mart Paint Gun.
 
 **10-151**: Programmer highly and strongly discourages this action, however...
+
+**10-152**: Simply walked into Mordor
