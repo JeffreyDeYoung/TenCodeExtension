@@ -115,3 +115,5 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-152**: Simply walked into Mordor
 
 **10-153**: Upon the advice of our lawyers, we have decided to invoke our 5th Amendment Rights. We regret any inconvenience.
+
+**10-154**: Hold my beer and watch this! (useful for deploying to production)
