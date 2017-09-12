@@ -2,13 +2,13 @@
 
 This document is intended to be a semi-sarcastic extension of CB ([civilian band](https://en.wikipedia.org/wiki/Citizens_band_radio)) [10-codes](http://www.truckroadservice.com/10_codes.html) for cut rate communications for software development teams. Some inspiration was also received from [here](https://github.com/joho/7XX-rfc]) (Warning: Language on the linked document).
 
-###Status
+### Status
 This document is a work in progress; codes may change without notice until finalized.
 
-###Editing rules
+### Editing rules
 Nothing obscene, profane or offensive. Pull requests supported.
 
-##The Codes
+## The Codes
 
 **10-101**: "As it Turns Out..." euphemism for "[unfortunately](http://dilbert.com/strip/2011-09-16)"
 
@@ -104,7 +104,7 @@ Nothing obscene, profane or offensive. Pull requests supported.
 
 **10-147**: Operator head space is out of adjustment.
 
-**10-148**: <target> suffers from anal cranial inversion, ignored.
+**10-148**: $TARGET suffers from anal cranial inversion, ignored.
 
 **10-149**: Implementation correct, requirements wrong.
 
@@ -116,4 +116,8 @@ Nothing obscene, profane or offensive. Pull requests supported.
 
 **10-153**: Upon the advice of our lawyers, we have decided to invoke our 5th Amendment Rights. We regret any inconvenience.
 
-**10-154**: Hold my beer and watch this! (useful for deploying to production)
+**10-154**: Hold my beer and watch this! (Useful for deploying to production)
+
+**10-155**: Fire me if'n you [dare](http://i.imgur.com/s4isN5V.jpg)! (Useful for breaking rules, but know that it is for the best.)
+
+**10-156**: Programmer [nullification](https://en.wikipedia.org/wiki/Jury_nullification) -- A programmer refuses to implement a feature on principle.
