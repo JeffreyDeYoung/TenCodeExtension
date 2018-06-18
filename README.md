@@ -121,3 +121,5 @@ Nothing obscene, profane or offensive. Pull requests supported.
 **10-155**: Fire me if'n you [dare](http://i.imgur.com/s4isN5V.jpg)! (Useful for breaking rules, but know that it is for the best.)
 
 **10-156**: Programmer [nullification](https://en.wikipedia.org/wiki/Jury_nullification) -- A programmer refuses to implement a feature on principle.
+
+**10-157**: We/I believe the programmer that wrote this code was chemically altered at the time of development. Often used with 10-115.
