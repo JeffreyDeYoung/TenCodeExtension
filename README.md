@@ -78,7 +78,7 @@ Nothing obscene, profane or offensive. Pull requests supported.
 
 **10-134**: Developer is under-caffeinated
 
-**10-135**: Cosmic ray flipped bit in RAM or hard drive (actual/confirmed)
+**10-135**: [Cosmic ray](https://en.wikipedia.org/wiki/Soft_error#Cosmic_rays_creating_energetic_neutrons_and_protons) flipped bit in RAM or hard drive (actual/confirmed)
 
 **10-136**: Cosmic ray flipped bit in RAM or hard drive (we have no idea what happened, so we are blaming it on cosmic rays)
 
